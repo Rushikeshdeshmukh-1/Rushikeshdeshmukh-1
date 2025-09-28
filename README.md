@@ -1,5 +1,7 @@
 # Hi 👋, I'm Rushikesh Deshmukh  
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=600&lines=Hi+👋,+I'm+Rushikesh+Deshmukh;Vibe+Code+Specialist;AI+%7C+Android+%7C+Web+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
+
 🚀 **Vibe Code Specialist | Learner | Builder of AI & Android Stuff**  
 
 🔹 Passionate about building cool apps, AI chatbots, and solving real-world problems with code.  
@@ -21,10 +23,6 @@
 
 ## 📌 Featured Projects  
 
-### 🔹 [SpamRewriter](https://github.com/Rushikeshdeshmukh-1/spamrewriter)  
-An AI-based tool that rewrites spam messages into safe, human-like text.  
-⭐ _NLP + Text Processing | Experiment in Generative AI_
-
 ### 🔹 [LangChain PDF Chatbot](https://github.com/Rushikeshdeshmukh-1/langchain-pdf-chatbot)  
 A chatbot that answers questions from uploaded PDFs using **LangChain + Gemini + Hugging Face + ChromaDB**.  
 ⭐ _AI + RAG project | Built in Jupyter Notebook | Beginner-friendly_
@@ -37,13 +35,23 @@ A **React + MapLibre + Leaflet** web app that shows nearby cinemas.
 An Android app fetching random cat facts from an API.  
 ⭐ _Java + Android Studio | API Integration_
 
+### 🔹 [SpamRewriter](https://github.com/Rushikeshdeshmukh-1/spamrewriter)  
+An AI-based tool that rewrites spam messages into safe, human-like text.  
+⭐ _NLP + Text Processing | Experiment in Generative AI_
+
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Activity  
 
 ![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushikeshdeshmukh-1&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Rushikeshdeshmukh-1&theme=tokyonight&hide_border=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikeshdeshmukh-1&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikeshdeshmukh-1&layout=compact&theme=tokyonight)  
+
+### 🔹 Contribution Graph  
+![Rushikesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rushikeshdeshmukh-1&bg_color=1a1b27&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)
+
+### 🔹 Snake Animation  
+![snake gif](https://github.com/Rushikeshdeshmukh-1/Rushikeshdeshmukh-1/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
