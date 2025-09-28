@@ -3,24 +3,32 @@ name: GitHub Contribution Snake
 on:
   workflow_dispatch: # manual trigger
   schedule:
-    - cron: '0 0 * * *' # runs daily at midnight UTC
+    - cron: '0 0 * * *' # daily at midnight UTC
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout repo
       - uses: actions/checkout@v3
 
-      # Step 2: Create assets folder if missing
-      - name: Ensure assets folder exists
+      # Ensure assets folder exists
+      - name: Create assets folder
         run: mkdir -p assets
 
-      # Step 3: Generate GitHub contribution snake
+      # Generate the snake GIF
       - name: Generate Snake GIF
         uses: platane/snk@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           output: assets/snake.gif
-          colors: "#8A2BE2,#0
+          colors: "#8A2BE2,#00FFFF" # purple & neon cyan
+
+      # Commit & push GIF
+      - name: Commit & Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/snake.gif
+          git commit -m "Update GitHub snake GIF [skip ci]" || echo "No changes to commit"
+          git push
