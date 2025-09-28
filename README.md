@@ -21,6 +21,10 @@
 
 ## 📌 Featured Projects  
 
+### 🔹 [SpamRewriter](https://github.com/Rushikeshdeshmukh-1/spamrewriter)  
+An AI-based tool that rewrites spam messages into safe, human-like text.  
+⭐ _NLP + Text Processing | Experiment in Generative AI_
+
 ### 🔹 [LangChain PDF Chatbot](https://github.com/Rushikeshdeshmukh-1/langchain-pdf-chatbot)  
 A chatbot that answers questions from uploaded PDFs using **LangChain + Gemini + Hugging Face + ChromaDB**.  
 ⭐ _AI + RAG project | Built in Jupyter Notebook | Beginner-friendly_
