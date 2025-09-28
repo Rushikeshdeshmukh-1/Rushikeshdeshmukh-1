@@ -1,4 +1,4 @@
-![Banner](assets/banner.png)
+![Banner](assets/banner1.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=600&lines=Hi+👋,+I'm+Rushikesh+Deshmukh;Vibe+Code+Specialist;AI+%7C+Android+%7C+Web+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
