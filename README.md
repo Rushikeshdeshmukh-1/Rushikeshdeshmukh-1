@@ -49,7 +49,7 @@ An AI-based tool that rewrites spam messages into safe, human-like text.
 ![Rushikesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rushikeshdeshmukh-1&bg_color=1a1b27&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)
 
 ### 🔹 Snake Animation  
-![snake gif](https://github.com/Rushikeshdeshmukh-1/Rushikeshdeshmukh-1/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake](https://github.com/Rushikeshdeshmukh-1/Rushikeshdeshmukh-1/blob/output/snake.svg)
 
 ---
 
